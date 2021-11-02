@@ -13,7 +13,7 @@ import{c as b,a as s,b as T,t as C,d as c,i as u,e as l,f as r,s as Y,S as M,F a
 	background: 
 		linear-gradient(0deg, #6668, #6666, #6666, #6668)
 			center/cover,
-		url(./assets/noise.png)
+		url(./noise.png)
 			var(--right) var(--top)/var(--size) repeat;
 }
 .clear-view-status \& {
